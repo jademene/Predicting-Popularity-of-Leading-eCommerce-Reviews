@@ -15,3 +15,5 @@ The data were collected during a survey analysis among site clients carried out 
 There are a total of 38,000 records divided into two datasets:
 * model.csv: This dataset contains the information of 28,000 reviews with the respective target variable (column named "shares").
 * predictions.csv: This dataset contains the information of 10,000 reviews without the target variable. We are requested to provide the predictions for this set of records.
+
+_Note: this was a collaborative task with one other peers in the inernational BABD master @ POLIMI General School of Management._
